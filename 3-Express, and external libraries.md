@@ -11,3 +11,11 @@
 - Validator
 
        npm install --save express-validator
+       
+- Routes:
+
+       const express = require('express');
+
+       const router = express.Router();
+
+       module.exports = router;
